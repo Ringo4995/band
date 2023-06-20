@@ -1,0 +1,79 @@
+.container-fluid{
+    padding: 0;
+}
+
+.couleurnavbar{
+    background-color: black !important; 
+}
+
+.couleurnavbar a, .couleurnavbar p{
+    color: rgb(255, 255, 255) !important;
+}
+
+.colornav a, .colornav p{
+    color: black !important;
+}
+
+.band{
+    width: 60%;
+    margin: auto;
+    margin: 80px auto;
+}
+
+.band h1, .band p{
+    text-align: center;
+}
+
+.name img{
+    display: block;
+    margin: auto;
+}
+
+.band p span{
+        font-style: italic; color: gainsboro;
+}
+/* sold out */
+.tourdate{
+    color: white;
+    background-color: black;
+    margin: 80px auto;
+    padding-top: 8vh;
+    text-align: center;
+}
+
+.tourdate .reeee{
+    font-style: italic; color: gainsboro;
+}
+
+.tourdate .soldout{
+    background-color: white;
+    margin: 20px auto;
+    width: 70%;
+    color: black;
+    text-align: start;
+}
+
+.tourdate .soldout .un{
+    padding-top: 1.5%;
+}
+
+.tourdate .soldout .redcard{
+    background-color: red;
+}
+
+.tourdate .soldout .trois{
+    padding-bottom: 1.5%;
+}
+
+.tourdate .soldout p{
+    padding-left: 1.5%;
+}
+
+.tourdate .card{
+    margin: auto;
+}
+
+.tourdate .ligne{
+    width: 70%;
+    margin: auto;
+}
